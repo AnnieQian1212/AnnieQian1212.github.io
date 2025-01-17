@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: annieqac@gmail.com
 
 profile:
   align: right
@@ -14,8 +14,8 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an undergrade student at Shanghai Jiao Tong University, major in Information Engineering. I am interested in computer vision and robotics.
+I am an undergraduate at Shanghai Jiao Tong University, major in Information Engineering. I am interested in computer vision and robotics. During my leisure time, I engage in physical activities, practice guitar, explore anime series, and immerse myself in video games.
