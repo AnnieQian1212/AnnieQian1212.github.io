@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an undergraduate at Shanghai Jiao Tong University, major in Information Engineering. I am interested in computer vision and robotics. During my leisure time, I engage in physical activities, practice guitar, explore anime series, and immerse myself in video games.
+I am an undergraduate at **Shanghai Jiao Tong University**, major in Information Engineering. I am interested in **computer vision and robotics**. During my leisure time, I engage in physical activities, practice guitar, explore anime series, and immerse myself in video games.
