@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atomic Habits - James Clear
-date: 2015-10-20 11:12:00-0400
+date: 2025-3-4
 description: Reading notes of *Atomic Habits*
 tags: personal growth
 categories: reading notes
