@@ -28,7 +28,15 @@
       "startDate": "2021-9",
       "endDate": "2025-6",
       "score": "",
-      "courses": ["Topology and Differential Calculus", "Graph Theory and Computational Algebra", "Neural Network", "Optimisation", "Machine Learning", "Information and Coding", "Programming Language Theory"]
+      "courses": [
+        "Topology and Differential Calculus",
+        "Graph Theory and Computational Algebra",
+        "Neural Network",
+        "Optimisation",
+        "Machine Learning",
+        "Information and Coding",
+        "Programming Language Theory"
+      ]
     }
   ],
   "skills": [
@@ -36,12 +44,7 @@
       "name": "Programming",
       "level": "Beginner",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C",
-        "SQL",
-        "Web"
-      ]
+      "keywords": ["Python", "C", "SQL", "Web"]
     }
   ],
   "languages": [
@@ -70,27 +73,17 @@
     {
       "name": "Sports",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Aerobic",
-        "Boxing"
-      ]
+      "keywords": ["Aerobic", "Boxing"]
     },
     {
       "name": "Art & Music",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Guitar",
-        "Ballet"
-      ]
+      "keywords": ["Guitar", "Ballet"]
     },
     {
       "name": "Video Game",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Souls-like",
-        "Adventure",
-        "Indie"
-      ]
+      "keywords": ["Souls-like", "Adventure", "Indie"]
     }
   ]
 }

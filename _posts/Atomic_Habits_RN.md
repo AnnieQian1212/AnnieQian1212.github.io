@@ -7,6 +7,7 @@ tags: personal growth
 categories: reading notes
 related_posts: false
 ---
+
 # The Fundamentals: Why Tiny Changes Make a Big Difference
 
 ## Chapter 1: The Surprising Power of Atomic Habits
