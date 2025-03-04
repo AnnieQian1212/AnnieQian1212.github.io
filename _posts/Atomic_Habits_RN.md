@@ -21,8 +21,26 @@ related_posts: false
 
 ### If you want better result, then forget about setting goals. Focus on your system instead.
 
-### You do not rise to the level of you 
+### You do not rise to the level of your goals. You fall to the level of your system.
 
 ## Chapter 2: How Your Habits Shape Your Identity (and Vice Versa)
 
+### There are three levels of change: outcome change, process change, and identity change.
+
+### The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
+
+### Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.
+
+### Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
+
+### The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
+
 ## Chapter 3: How to Build Better Habits in 4 Simple Steps
+
+### A habit is a behavior that has been repeated enough times to become automatic.
+
+### The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
+
+### Any habits can be broken down into a feedback loop that involves four steps: cue. craving, response, and reward.
+
+### The four Laws of Behavior Change are a simple set of rules we can use to build better habits. They are (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying.
